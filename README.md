@@ -1,7 +1,5 @@
 # Pong Game
 
-![Pong Game Screenshot](link_to_project_screenshot.png)
-
 Pong Game is a Python project that brings the classic Pong game to life. It's a 2-player game where the goal is to prevent the ball from reaching your side of the screen. Use your paddle to bounce the ball back to the other player's side and score points.
 
 ## How it Works
